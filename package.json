@@ -1,0 +1,25 @@
+{
+  "name": "socketio1",
+  "version": "1.0.0",
+  "description": "First SocketIO JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/isreehari/socketio1.git"
+  },
+  "author": "isreehari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/isreehari/socketio1/issues"
+  },
+  "homepage": "https://gitlab.com/isreehari/socketio1#README",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "socketio1",
+  "description": "First SocketIO JS project",
+  "main": "index.js",
+  "authors": [
+    "isreehari"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
